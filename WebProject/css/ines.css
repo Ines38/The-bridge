@@ -1,0 +1,59 @@
+.head{
+    width:98%; 
+    position:relative;
+    border:solid 1px #8f8f8f; 
+    vertical-align:top; 
+    padding:1% 1% 1% 1%; 
+    background-color: rgb(151, 151, 151);
+}
+.whole{
+    margin: 0%;
+}
+.style5{
+    color: rgb(43, 95, 63);
+    font-size: 20px;
+    
+}
+.title1{
+    color: rgb(34, 104, 71);
+    font-size: 36px;
+    font-weight: 700;
+}
+.contact{
+    margin: 120px 120px 120px 120px;
+}
+.table1{
+    width: 90%;
+}
+.tableicon{
+    /*display: flex;*/
+    width: 70%;
+}
+.foot{
+    margin-bottom: -15px;
+}
+#welcome{
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.button1{
+    color: white;
+    font-size: x-large;
+    background-color: #00cb86;
+    width: 150px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 30%;
+}
+.row{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   justify-content: center;
+   
+}
+#team1{
+    width: 300px;
+}

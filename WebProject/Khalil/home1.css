@@ -1,0 +1,36 @@
+.p1{color: green;
+font-size: 32px;
+font-weight: bold;}
+
+.d1{
+/*padding-top: 10px;*/
+padding-left: 40px;
+padding-bottom: 50px;
+}
+
+.big{background-color: #cccccc;
+margin-bottom: 20px;
+padding-bottom: 30px; }
+
+#text{font-size: 24px;
+padding-right: 100px;
+}
+
+#image{padding-right: 150px;
+}
+
+.d4{padding-left:50px;
+padding-bottom: 70px;}
+
+.but{
+  padding: 16px;
+  padding-left: 37px;
+  padding-right: 37px;
+font-size: 23px;
+background-color:  #00e600;
+color: #f2f2f2;
+border: #4dff4d}
+
+.d3{display: flex;
+  list-style-type: none;
+}
